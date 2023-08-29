@@ -1,4 +1,4 @@
-# Daniel's First CS193 Homework
+# Chanwoo Park's First CS193 Homework
 
 ## Welcome to GitHub Pages
 
