@@ -1,2 +1,2 @@
-theme: gem "minima"
+theme: "minima"
 $ bundle
