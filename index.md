@@ -1,6 +1,7 @@
-# Chanwoo Park's First CS193 Homework
+# Chanwoo Park's first CS homework
 
 ## The reason why I like CS
+
 - Making code is fun
 - Satisfying when my code works
 
